@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikhyatSharma17
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python and Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
